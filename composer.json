@@ -20,7 +20,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0  || ~8.0.0",
         "laminas/laminas-loader": "^2.5.1",
         "laminas/laminas-stdlib": "^3.2.1",
         "laminas/laminas-uri": "^2.5.2",
